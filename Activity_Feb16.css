@@ -1,0 +1,7 @@
+p:nth-child(even) {
+    color: #a12049;
+}
+
+p:first-child, p:last-child {
+    background-color: #f3889e;
+}
